@@ -27,14 +27,6 @@ This portfolio was created to:
 
 ---
 
-## 🧑‍💻 How to Run Locally
-
-### Option 1: Use Lovable Editor
-
-1. Go to (https://amolmahaleportfolio.netlify.app/)
-2. Start editing with AI prompts or directly in the editor
-3. Changes are auto-committed to GitHub
-
 ### Option 2: Use Local Development (with Node.js)
 
 ```bash
@@ -51,7 +43,7 @@ npm install
 npm run dev
 .
 
-## What technologies are used for this project?
+### What technologies are used for this project?
 
 This project is built with:
 
