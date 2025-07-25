@@ -6,7 +6,7 @@ import ProjectsSection from '@/components/ProjectsSection';
 import ExperienceSection from '@/components/ExperienceSection';
 import EducationSection from '@/components/EducationSection';
 //import TestimonialsSection from '@/components/TestimonialsSection';
-import BlogSection from '@/components/BlogSection';
+//import BlogSection from '@/components/BlogSection';
 import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
 
