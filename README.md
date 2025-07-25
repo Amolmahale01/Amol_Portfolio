@@ -31,7 +31,7 @@ This portfolio was created to:
 
 ```bash
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Amolmahale01/Amol_Portfolio
 
 # Step 2: Navigate into the folder
 cd <YOUR_PROJECT_NAME>
