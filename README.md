@@ -1,54 +1,55 @@
-# Welcome to your Lovable project
+# 🚀 Amol Mahale – Developer Portfolio
 
-## Project info
+Welcome to my personal portfolio project!  
+This website showcases my skills, experience, and projects — built with modern frontend technologies and a love for clean UI.
 
-**URL**: https://lovable.dev/projects/f9973333-d10d-4960-b39d-99032841ff5c
+🌐 **Live URL**: (https://amolmahaleportfolio.netlify.app/)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 About This Project
 
-**Use Lovable**
+This portfolio was created to:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f9973333-d10d-4960-b39d-99032841ff5c) and start prompting.
+- Present my experience in ERPNext, Python, Frappe, React, and more
+- Share my journey as a developer
+- Make it easier for clients and employers to view my work
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Technologies Used
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- ⚡ **Vite** – for blazing-fast frontend development
+- 💻 **TypeScript** – for type-safe code
+- ⚛️ **React** – frontend UI library
+- 🎨 **Tailwind CSS** – utility-first styling
+- 🧩 **shadcn/ui** – beautiful UI components
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🧑‍💻 How to Run Locally
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+### Option 1: Use Lovable Editor
+
+1. Go to (https://amolmahaleportfolio.netlify.app/)
+2. Start editing with AI prompts or directly in the editor
+3. Changes are auto-committed to GitHub
+
+### Option 2: Use Local Development (with Node.js)
+
+```bash
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Step 2: Navigate into the folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the dev server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+.
 
 ## What technologies are used for this project?
 
@@ -60,14 +61,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f9973333-d10d-4960-b39d-99032841ff5c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
