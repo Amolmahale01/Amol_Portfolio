@@ -3,6 +3,7 @@ import { Github, Linkedin, Mail, MapPin, Phone, Plus, Circle, Square, Triangle }
 import { Button } from '@/components/ui/button';
 import { textReveal, fadeInLeft, fadeInRight, buttonHover, floatingAnimation, floatingShapes, backgroundText } from '@/components/animations/AnimationVariants';
 import { Typewriter } from 'react-simple-typewriter';
+import amolImg from '../assets/amol-image.jpg';
 const HeroSection = () => {
 
   const scrollToContact = () => {
@@ -298,7 +299,7 @@ const HeroSection = () => {
                   transition={{ duration: 0.3 }}
                 >
                   <motion.img
-                    src="src/assets/amol-image.jpg"
+                    src={amolImg}
                     alt="Amol Mahale"
                     style={{ height: '400px', width: '100%', objectFit: 'cover' }}
                     className="rounded-2xl shadow-md"
