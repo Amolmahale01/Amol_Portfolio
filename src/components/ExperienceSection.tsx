@@ -20,10 +20,10 @@ const ExperienceSection = () => {
                 <div className="space-y-2">
                   <CardTitle className="text-xl font-bold flex items-center space-x-2">
                     <Building className="w-5 h-5 text-primary" />
-                    <span>ERPNext Developer Intern</span>
+                    <span>ERPNext Developer</span>
                   </CardTitle>
                   <CardDescription className="text-lg font-semibold text-primary">
-                    CBD IT Solutions Pvt Ltd
+                    CBD IT Solutions Pvt Ltd.
                   </CardDescription>
                 </div>
                 <div className="flex flex-col items-start md:items-end space-y-1">
@@ -33,7 +33,7 @@ const ExperienceSection = () => {
                   </Badge>
                   <div className="flex items-center text-sm text-muted-foreground">
                     <MapPin className="w-3 h-3 mr-1" />
-                    Shirpur, India
+                    Mumbai, India
                   </div>
                 </div>
               </div>
