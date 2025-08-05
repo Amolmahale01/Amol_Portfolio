@@ -21,7 +21,7 @@ const ProjectsSection = () => {
       color: 'from-blue-500 to-blue-600'
     },
     {
-      title: 'Medicap GST Dashboard Integration',
+      title: 'Medicap Inc ERP Implementation',
       description: 'Custom GST compliance dashboard for Medicap Pharmaceuticals with automated invoice generation, GST filing, and e-invoicing integration.',
       technologies: ['ERPNext', 'GST API', 'Python', 'REST API', 'Power BI'],
       features: [
