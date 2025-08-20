@@ -1,4 +1,4 @@
-# 🚀 Amol Mahale – Developer Portfolio
+# 🚀 Amol Mahale - Portfolio
 
 Welcome to my personal portfolio project!  
 This website showcases my skills, experience, and projects — built with modern frontend technologies and a love for clean UI.
